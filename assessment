@@ -17,7 +17,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#
 
 In JavaScript, a falsy value is a value that is considered false when encountered in a Boolean context. It's like asking your participant in a research paper a closed-ended question, which can only be answered with yes or no. You can't just ask them "WHat do you think of this ice cream?" because that's an open-ended question. Falsy values in JavaScript are like those "no" answers. They're values that, in a certain context, tell you ", no, this is not true".
 
-This are the common falsy values in JavaScript which are 0(zero): nothing or empty or no quantity. ""(Empty string): there's no characters or text inside. null: This keyword represents the absence of any object value.
+These are the common falsy values in JavaScript which are 0(zero): nothing or empty or no quantity. ""(Empty string): there's no characters or text inside. null: This keyword represents the absence of any object value.
 
 These falsy values are like "empty" or "invalid" statements in JavaScript. They're often used in conditional statemtns like if statements to check if something is present, valid, or meaningful. If a value is falsy, it's like saying "no" or "not true" in a Boolean context.
 
